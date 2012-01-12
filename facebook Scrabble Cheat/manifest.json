@@ -1,0 +1,17 @@
+{
+  
+  "name": "Facebook Scrabble Cheat",
+  "version": "1.0.0.2",
+
+  
+  "description": "A Scrabble Cheat for Facebook",
+  
+  
+  "page_action": {
+  "default_icon":"48.png",
+  "default_popup": "Cheat.html"  
+  
+  }
+  
+  
+}
